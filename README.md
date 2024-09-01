@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 I'm a passionate web developer who transitioned from a long career in the metalworking industry to the exciting world of programming. My journey has been one of continuous learning and growth, and I'm thrilled to share it with you.<br>Thanks to my past experiences, I try to approach the world of programming with confidence, constant improvement and determination.<br><br>🎸 Guitarist and Tennis Player<br><br>🔧 I'm currently learning React.js and Node.js!<br><br>📭 Email - merolagiuseppe91@outlook.it</p>
+<p align="left">🚀 I'm a passionate web developer who transitioned from a long career in the metalworking industry to the exciting world of programming. My journey has been one of continuous learning and growth, and I'm thrilled to share it with you.<br>Thanks to my past experiences, I try to approach the world of programming with confidence, constant improvement and determination.<br><br>🎸 Guitarist and Tennis Player<br><br>🔧 I'm currently learning Python<br><br>📭 Email - merolagiuseppe91@outlook.it</p>
 
 ###
 
